@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Winnie-Qi/dev_skills/main/images/squidward.jpg" width="200" alt="章鱼哥形象">
 
-大家好，我是**章鱼哥**，住在比奇堡的*复活节岛头雕像屋*里。以下是我的自我介绍：
+大家好，我是**章鱼哥**，我的身份是*蟹堡王的收银员*。以下是我的自我介绍：
 
 ---
 
