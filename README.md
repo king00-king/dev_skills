@@ -1,6 +1,6 @@
 # 章鱼哥的自我介绍
 
-![章鱼哥官方形象](https://github.com/Winnie-Qi/dev_skills/blob/main/images/squidward.jpg =x150) 
+<img src="https://raw.githubusercontent.com/Winnie-Qi/dev_skills/main/images/squidward.jpg" width="150" alt="章鱼哥官方形象">
 
 大家好，我是**章鱼哥**，住在比奇堡的*复活节岛头雕像屋*里。以下是我的自我介绍：
 
