@@ -45,4 +45,4 @@ print(np.array([1, 2, 3]) ** 2)
 <img src="https://raw.githubusercontent.com/Winnie-Qi/dev_skills/main/images/pic1.jpg" width="800" alt="截图一">
 
 ### 我可以在IDE上使用我建立的虚拟环境
-<img src="https://raw.githubusercontent.com/Winnie-Qi/dev_skills/main/images/pic2.jpg" width="800" alt="截图二">
+<img src=https://github.com/king00-king/dev_skills/blob/main/1a27bd518268be1b602e93a017940a0.png>
