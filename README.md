@@ -1,6 +1,6 @@
 # 海绵宝宝的自我介绍
 
-<img src = "(![Uploading image.png…]()
+<img src = "([![Uploading image.png…](](https://github.com/king00-king/dev_skills/blob/main/v2-a2ac9af669bae907c93a016139e3356e_hd.jpg))
 >
 
 大家好，我是**海绵宝宝**，我的身份是*蟹堡王的厨师*。以下是我的自我介绍：
