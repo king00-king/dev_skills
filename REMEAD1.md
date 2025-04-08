@@ -204,4 +204,4 @@ weighted avg     0.8483    0.7097    0.7469        31
 邮件_files/155.txt 分类情况: 普通邮件
 
 ```
-
+<img src=https://github.com/king00-king/dev_skills/blob/main/1a27bd518268be1b602e93a017940a0.png>
